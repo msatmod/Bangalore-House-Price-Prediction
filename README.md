@@ -1,2 +1,6 @@
 # Bangalore House Price Prediction
- Machine Learning Project to predict House Prices in Bangalore
+This is a simple Machine Learning Project to predict House Prices in Bangalore City.
+
+Try this: 
+
+https://bhpp.herokuapp.com 
